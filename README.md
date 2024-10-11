@@ -1,16 +1,13 @@
-## Hi there 👋
+# bem vindo ao perfil da szannaju
+-🍒 Anna Julia Nazario
+-📖 Estudo no colégio Neide Bertasso Beraldo
+-🕶️ Tenho 16 anos
+-🏫 Estou na 1 série A do Ensino
+-💻 Estou estudando na Alura
+-🌻 Estou me desenvolvendo na linguagem JavaScript
+-🫀 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-<!--
-**szannaju/szannaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Você pode entrar em contato comigo:
+anna.julia.nazario@escola.pr.gov.br
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://media1.tenor.com/m/VWJof0Xx0PwAAAAd/greys-anatomy-chyler-leigh.gif
